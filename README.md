@@ -1,11 +1,11 @@
 # Stock Analysis
-We will refactor VBA code to loop through Stock results more efficiently
+We will refactor VBA code to loop through Stock results more efficiently.
 ## Overview of Project
 Steve had asked for our help to analyze different stocks so that his parents can make the best decision about what stock to invest in.
 ### Purpose
 The purpose is to refactor the VBA code so that we can loop through only once and having a more efficient run time.
 ## Results
-To begin refactoring the code we created output arrays for each of our variables. The goal is to make our analysis more efficient and by reducing the number of times the code must loop through different variables, we are able to do so. We kept the array from the original code for tickers. We created output arrays tickerVolumes(), tickerStartingPrices(), and tickerEndingPrices().  We created the variable tickerIndex to refer to the tickers in our initial array. We set this variable equal to zero and prepared to run our loop through our datasheet <br>
+To begin refactoring the code we created output arrays for each of our variables. The goal is to make our analysis more efficient and by reducing the number of times the code must loop through different variables, we are able to do so. We kept the array from the original code for tickers. We created output arrays tickerVolumes(), tickerStartingPrices(), and tickerEndingPrices().  We created the variable tickerIndex to refer to the tickers in our initial array. We set this variable equal to zero and prepared to run our loop through our datasheet. <br>
 <br>
 ![Create Output Arrays](Resources/screenshot1.png)
 <br>
