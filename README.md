@@ -17,11 +17,11 @@ We then needed to find our ending prices and starting prices. Instead of creatin
 <br>
 ![Find Starting and Ending Prices](Resources/screenshot3.png)
 <br>
-Lastly we created a new datasheet and were able to display the results for each variable using our arrays for each ticker. When we ran out refactored code we saw an increased performance for both data sets. The original codes ran for .496 seconds for 2017 and .484 seconds in 2018. Our new times are shown below <br>
+Lastly we created a new datasheet and were able to display the results for each variable using our arrays for each ticker. When we ran out refactored code we saw an increased performance for both data sets. The original codes ran for .496 seconds for 2017 and .484 seconds in 2018. Our new times are shown below. <br>
 <br>
-![Display Refactored Results](Resources/screenshot4.png)
+![Display Refactored Results](Resources/screenshot4.png)<br>
 <br>
-![VBA Challenge 2017](Resources/VBA_Challenge_2017.png)
+![VBA Challenge 2017](Resources/VBA_Challenge_2017.png)<br>
 <br>
 ![VBA Challenge 2018](Resources/VBA_Challenge_2018.png)
 <br>
